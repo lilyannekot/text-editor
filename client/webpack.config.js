@@ -32,6 +32,8 @@ module.exports = () => {
         name: "Just Another Text Editor",
         short_name: "JATE",
         description: "A text editor with offiline capabilities",
+        background_color: "#225ca3",
+        theme_color: "#225ca3",
         start_url: "/",
         publicPath: "/",
         icons: [
@@ -46,7 +48,7 @@ module.exports = () => {
     module: {
       rules: [
         {
-          test: /\.css$/,
+          test: /\.css$/i,
           use: ["style-loader", "css-loader"],
         },
         {
