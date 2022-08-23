@@ -26,7 +26,7 @@ The deployed text editor can be found [HERE](https://frozen-everglades-89026.her
 
 ## Project Demonstration
 
-The following demonstration shows the ability to create a new user and how they are returned when you GET all users.
+The following demonstration shows the ability to write content in the text editor in the browser and the installed app. When refreshing the page, the content is pulled from the database and still present in the editor. 
 
 ![Project Demo](client/src/images/text-editor-gif.gif)
 
