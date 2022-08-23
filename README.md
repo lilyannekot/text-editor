@@ -28,7 +28,7 @@ The deployed text editor can be found [HERE](https://frozen-everglades-89026.her
 
 The following demonstration shows the ability to create a new user and how they are returned when you GET all users.
 
-![Project Demo](public/assets/social-network-api-gif.gif)
+![Project Demo](client/src/images/text-editor-gif.gif)
 
 ## Code Snippet
 
